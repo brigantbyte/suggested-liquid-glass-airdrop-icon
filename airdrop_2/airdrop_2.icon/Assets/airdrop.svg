@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 39.9783 40.0032">
+
+    <g fill="none"
+       stroke="black"
+       stroke-width="2.35"
+       stroke-linecap="round"
+       stroke-opacity="0.85">
+
+        <!-- Exterior -->
+        <path d="
+            M 10.90 35.10
+            A 17.4 17.4 0 1 1 29.08 35.10
+        "/>
+
+        <!-- Intermedia -->
+        <path d="
+            M 13.65 30.40
+            A 12.25 12.25 0 1 1 26.33 30.40
+        "/>
+
+        <!-- Interior -->
+        <path d="
+            M 16.30 25.85
+            A 7.05 7.05 0 1 1 23.68 25.85
+        "/>
+
+    </g>
+
+    <!-- Punto -->
+    <circle
+        cx="19.9892"
+        cy="19.1"
+        r="2.35"
+        fill="black"
+        fill-opacity="0.85"
+    />
+
+</svg>
